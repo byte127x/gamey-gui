@@ -1,27 +1,22 @@
-## Welcome to the Source Code
-Yay! You Made it past the Website Stuff! This is _only_ the source code of Gamey
-> This is not the regular version of Gamey, as it requires nw.js in the "HTML Runtime" folder
+﻿## Welcome to Gamey GUI (Gamey Desktop)
+![Gamey Desktop GUI Screenshott](https://i.imgur.com/RbgEoBo.png)
 
-[This is the source code for the first version btw](https://github.com/lolghuiy4tgfyu4th7tvtg/gamey/files/7892967/Source.Code.zip)
+Welcome! This is gamey, an app that is based off of BlueMaxima's flashpoint, but is not only more lightweight, but also supports server changing and the running of native Windows apps!
 
-But, Gamey is written in Python and requires several dependencies, and
-these dependencies are ...
-> Tkinter 8.6+ and ttkbootstrap
+If you plan to run the source code, you should install these dependencies first
+> Tkinter 8.6+ and ttkbootstrap (GUI)
 > 
-> Pathlib
-> 
-> and Requests
+> and Requests (connecting to servers and downloading files)
 
-You can install these using these commands (if python is in your path)
+You can install some using `pip`
 ```
 pip install ttkbootstrap
-pip install tk
 pip install requests
 ```
-This program is still in development (this is literally the first version)
-so, be sure to report any bugs you have with the software!
+but tkinter may have to be installed via other means. I would recommend using the [Python for Windows installer](https://www.python.org/downloads/windows/) with the option "tcl/tk and IDLE" enabled.
+
+This program is still in development (it's still in *alpha*)
+so, be sure to report any bugs you have with the software to my email! (celctic.tribes@gmail.com)
 
 Bye!
-
-
 Gamey by lolghuiy4tgfyu4th7tvtg (byte127x)
